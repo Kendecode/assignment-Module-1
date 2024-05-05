@@ -1,0 +1,6 @@
+ists of 400 employees was generated using random cohice name lists ( first_ names and lastnames)
+400 Full names generated through concatination of first and last namesusing for loop
+error handling was included in the code block
+generate salary range for the employees lists between 3000 and 30000
+created column to indicate employees gender and salary range
+exception handling was included for possible error handling in the code block and return a simple error massage instead of default error statments 
